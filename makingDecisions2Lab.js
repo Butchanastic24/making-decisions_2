@@ -220,3 +220,5 @@ for (let i = 1; i <= 100; i++){
     console.log(i);
   }
 }
+
+"Changes to make git commit work"
